@@ -13,7 +13,7 @@ Tambien decidí dar el siguiente paso a mi carrera como programador ingresando a
 - ❓ Ask me about anything related to PERN stack and related technologies  
   
 
-- ⚡ Curiosities: I enjoy coding in silence  
+- ⚡ Curiosities: I enjoy coding in group  
   
 
   
