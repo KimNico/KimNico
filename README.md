@@ -2,18 +2,18 @@
 
 ### Hola, soy Nicolas Kim.
 
-Actualmente me encuentro trabajando en el rubro de la indumentaria y paralelamente estoy capacitándome en distintas tecnologías de programación, a través de cursos y de manera autodidacta. 
-Tambien decidí dar el siguiente paso a mi carrera como programador ingresando a la carrera de ingeniería de sistemas de información en la Universidad Tecnológica Nacional para poder profundizar aún más los conocimientos acerca de este camino que estoy siguiendo.  
-- 🔭 I’m currently working on a Henry Bootcamp Final group project  
+
+I am currently working as a full stack developer at Distrito Moda, which is an Ecommerce platform that sells wholesale clothing or fashion accessories. Additionally, I am pursuing a degree in Information Systems Engineering at the National Technological University in Argentina.
+- 🔭 I’m currently working on a personal project where i'm learning more about different technologies.
   
 
-- 🌱 I’m currently learning C++ and Typescript  
+- 🌱 I’m currently learning C++ and python  
   
 
-- ❓ Ask me about anything related to PERN stack and related technologies  
+- ❓ if i don't know something i will work hard to find the answer.
   
 
-- ⚡ Curiosities: I enjoy coding in group  
+- ⚡ Curiosities: i find joy in little things.
   
 
   
