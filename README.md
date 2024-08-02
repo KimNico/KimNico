@@ -1,26 +1,5 @@
 
 
-### Hola, soy Nicolas Kim.
-
-
-I am currently working as a full stack developer at Distrito Moda, which is an Ecommerce platform that sells wholesale clothing or fashion accessories. Additionally, I am pursuing a degree in Information Systems Engineering at the National Technological University in Argentina.
-- 🔭 I’m currently working on a personal project where i'm learning more about different technologies.
-  
-
-- 🌱 I’m currently learning C++ and python  
-  
-
-- ❓ if i don't know something i will work hard to find the answer.
-  
-
-- ⚡ Curiosities: i find joy in little things.
-  
-
-  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
